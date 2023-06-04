@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning how AI help my classrooms
 - 💞️ I’m looking to collaborate on researches in Data Mining
-- 📫 How to reach me: email by whu@asurams.edu  
+- 📫 How to reach me: email by whu@asurams.edu  or wanjun.hu@asurams.edu
 
 <!---
 whu-asurams/whu-asurams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
