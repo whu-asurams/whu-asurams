@@ -9,23 +9,27 @@ MA in Computer Science
     1. Supervised Machine Learning: Regression and Classification
     2. Advanced Learning ALgorithms
     3. Unsupervised Learning, Recommenders, Reinforcement Learning
-2 Deep Learning Specialization
+       
+2. Deep Learning Specialization
     1. Neural Networks and Deep Learning
     2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
     3. Strucuring Machine Learning Projects
     4. Convolutional Neural Networks
     5. Sequence Models
-3 DeepLearning.AI TensorFlow Developer Professional Certificate
+    
+3. DeepLearning.AI TensorFlow Developer Professional Certificate
     1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning
     2. Convolutional Neural Networks in TensorFlow
     3. Natural Language Processing in TensorFlow
     4. Sequences, Time Series and Prediction
-4 TensorFlow: Advanced Technique Specialization
+    
+4. TensorFlow: Advanced Technique Specialization
     1. Customn Models, Layers, and Loss Functions with TensorFlow
     2. Custom and distributed training with Tensorflow
     3. Advanced computer vision with Tensorflow
-    4. Generative Deep learning with TensorFlow   
-5 Meta Front-End Developer Professional Certificate
+    4. Generative Deep learning with TensorFlow
+       
+5. Meta Front-End Developer Professional Certificate
     1. Introduction to Front-end Development
     2. Programming with JavaScript
     3. Version Control
