@@ -6,35 +6,35 @@ MA in Computer Science
 
 ## Certificates
 1. Machine Learning Specialization
-  - Supervised Machine Learning: Regression and Classification
-  - Advanced Learning ALgorithms
-  - Unsupervised Learning, Recommenders, Reinforcement Learning
+  1. Supervised Machine Learning: Regression and Classification
+  2. Advanced Learning ALgorithms
+  3. Unsupervised Learning, Recommenders, Reinforcement Learning
 2 Deep Learning Specialization
-  - Neural Networks and Deep Learning
-  - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-  - Strucuring Machine Learning Projects
-  - Convolutional Neural Networks
-  - Sequence Models
+  1. Neural Networks and Deep Learning
+  2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  3. Strucuring Machine Learning Projects
+  4. Convolutional Neural Networks
+  5. Sequence Models
 3 DeepLearning.AI TensorFlow Developer Professional Certificate
-  - Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning
-  - Convolutional Neural Networks in TensorFlow
-  - Natural Language Processing in TensorFlow
-  - Sequences, Time Series and Prediction
+  1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning
+  2. Convolutional Neural Networks in TensorFlow
+  3. Natural Language Processing in TensorFlow
+  4. Sequences, Time Series and Prediction
 4 TensorFlow: Advanced Technique Specialization
-  - Customn Models, Layers, and Loss Functions with TensorFlow
-  - Custom and distributed training with Tensorflow
-  - Advanced computer vision with Tensorflow
-  - Generative Deep learning with TensorFlow   
+  1. Customn Models, Layers, and Loss Functions with TensorFlow
+  2. Custom and distributed training with Tensorflow
+  3. Advanced computer vision with Tensorflow
+  4. Generative Deep learning with TensorFlow   
 5 Meta Front-End Developer Professional Certificate
-  - Introduction to Front-end Development
-  - Programming with JavaScript
-  - Version Control
-  - HTML and CSS in depth
-  - React Basics (in progress)
-  - Advanced React (in progress)
-  - Principles of UX/UI Design (in progress)
-  - Front-End Developer Capstone (in progress)
-  - Coding Interview Preparation (in progress)
+  1. Introduction to Front-end Development
+  2. Programming with JavaScript
+  3. Version Control
+  4. HTML and CSS in depth
+  5. React Basics (in progress)
+  6. Advanced React (in progress)
+  7. Principles of UX/UI Design (in progress)
+  8. Front-End Developer Capstone (in progress)
+  9. Coding Interview Preparation (in progress)
 
   ## Personal Website
   https://backupspirit.com/
