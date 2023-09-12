@@ -28,8 +28,10 @@ MA in Computer Science
     2. Custom and distributed training with Tensorflow
     3. Advanced computer vision with Tensorflow
     4. Generative Deep learning with TensorFlow
+
+5. Generative AI with Large Language Models
        
-5. Meta Front-End Developer Professional Certificate
+6. Meta Front-End Developer Professional Certificate
     1. Introduction to Front-end Development
     2. Programming with JavaScript
     3. Version Control
