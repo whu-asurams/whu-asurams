@@ -10,8 +10,8 @@ Research in Data Clustering and Knowledge Graph
    A knowledge graph is currently expressed as a model of a first order logic language. However, there is not much study on such a language. The concept of typed topology can be considered as equal powerful in expressing the structure of a knowledge graph. Howwver, it provides additional methods and tools. In this research, we will investigate logic and topolofical structures of a knowledge graph using combined tools from the two areas.   
   
 ## Education
-PhD in Mathematics (Wesleyan University)
-MA in Computer Science (Wesleyan University)
+1. PhD in Mathematics (Wesleyan University)
+2. MA in Computer Science (Wesleyan University)
 
 ## Certificates
 1. Machine Learning Specialization
