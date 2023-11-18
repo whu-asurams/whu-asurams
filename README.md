@@ -13,7 +13,7 @@ Research in Data Clustering and Knowledge Graph
 1. PhD in Mathematics (Wesleyan University)
 2. MA in Computer Science (Wesleyan University)
 
-## Certificates
+## Certificates (from Coursera and Stanford University)
 1. Machine Learning Specialization
     1. Supervised Machine Learning: Regression and Classification
     2. Advanced Learning ALgorithms
