@@ -45,7 +45,7 @@ Research in Data Clustering and Knowledge Graph
     2. Programming with JavaScript
     3. Version Control
     4. HTML and CSS in depth
-    5. React Basics (in progress)
+    5. React Basics 
     6. Advanced React (in progress)
     7. Principles of UX/UI Design (in progress)
     8. Front-End Developer Capstone (in progress)
