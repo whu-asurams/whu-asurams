@@ -1,8 +1,17 @@
 ## Objective
-To find a job in either Machine Learning or Web Design and Development.
+Research in Data Clustering and Knowledge Graph
+1. Typed topology and its application to dataset, accepted to Topology and Its Applications
+   
+   In this artcile, we study the data clustering problem from a general topological approach. Many topological concepts and/or structures can be used. In particular, the DBSCAN algorithm becomes the 
+   type p closure in the setting of typed topological space, and a d dataset can navigate through branches.
+   
+2. First order logic system and typed topology on knowledge graph, in preparation
 
+   A knowledge graph is currently expressed as a model of a first order logic language. However, there is not much study on such a language. The concept of typed topology can be considered as equal powerful in expressing the structure of a knowledge graph. Howwver, it provides additional methods and tools. In this research, we will investigate logic and topolofical structures of a knowledge graph using combined tools from the two areas.   
+  
 ## Education
-MA in Computer Science
+PhD in Mathematics (Wesleyan University)
+MA in Computer Science (Wesleyan University)
 
 ## Certificates
 1. Machine Learning Specialization
