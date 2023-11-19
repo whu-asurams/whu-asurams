@@ -1,4 +1,6 @@
 ## Objective
+To find a job in Machine Learning and AI
+
 Research in Data Clustering and Knowledge Graph
 1. Typed topology and its application to dataset, accepted to Topology and Its Applications
    
